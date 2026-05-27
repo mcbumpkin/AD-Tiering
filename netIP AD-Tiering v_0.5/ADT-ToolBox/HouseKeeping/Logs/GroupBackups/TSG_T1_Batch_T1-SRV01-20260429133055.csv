@@ -1,0 +1,5 @@
+﻿"Name","SamAccountName","ObjectClass"
+"T1-SRV05","T1-SRV05$","computer"
+"T1-SRV04","T1-SRV04$","computer"
+"T1-SRV03","T1-SRV03$","computer"
+"T1-SRV02","T1-SRV02$","computer"

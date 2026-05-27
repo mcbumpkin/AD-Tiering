@@ -1,0 +1,762 @@
+2026-04-29 13:15:03 [INFO] Creating group for server: T0-SRV08 with prefix: TSG_T0_Service_Account_T0-SRV08 in OU: Tier0 Service Accounts
+2026-04-29 13:15:03 [INFO] Creating group for server: T0-SRV08 with prefix: TSG_T0_Local_Admin_T0-SRV08 in OU: Tier0 Admins
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV09 with prefix: TSG_T0_Service_Account_T0-SRV09 in OU: Tier0 Service Accounts
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV10 with prefix: TSG_T0_Service_Account_T0-SRV10 in OU: Tier0 Service Accounts
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV-01 with prefix: TSG_T0_Service_Account_T0-SRV-01 in OU: Tier0 Service Accounts
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV-02 with prefix: TSG_T0_Service_Account_T0-SRV-02 in OU: Tier0 Service Accounts
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV-03 with prefix: TSG_T0_Service_Account_T0-SRV-03 in OU: Tier0 Service Accounts
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV-04 with prefix: TSG_T0_Service_Account_T0-SRV-04 in OU: Tier0 Service Accounts
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV-05 with prefix: TSG_T0_Service_Account_T0-SRV-05 in OU: Tier0 Service Accounts
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV09 with prefix: TSG_T0_Local_Admin_T0-SRV09 in OU: Tier0 Admins
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV10 with prefix: TSG_T0_Local_Admin_T0-SRV10 in OU: Tier0 Admins
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV-01 with prefix: TSG_T0_Local_Admin_T0-SRV-01 in OU: Tier0 Admins
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV-02 with prefix: TSG_T0_Local_Admin_T0-SRV-02 in OU: Tier0 Admins
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV-03 with prefix: TSG_T0_Local_Admin_T0-SRV-03 in OU: Tier0 Admins
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV-04 with prefix: TSG_T0_Local_Admin_T0-SRV-04 in OU: Tier0 Admins
+2026-04-29 13:19:46 [INFO] Creating group for server: T0-SRV-05 with prefix: TSG_T0_Local_Admin_T0-SRV-05 in OU: Tier0 Admins
+2026-04-29 13:19:46 [INFO] Creating group for server: T1-SRV90 with prefix: TSG_T1_Batch_T1-SRV90 in OU: Tier1 Batch Users
+2026-04-29 13:19:46 [INFO] Creating group for server: T1-SRV91 with prefix: TSG_T1_Batch_T1-SRV91 in OU: Tier1 Batch Users
+2026-04-29 13:19:46 [INFO] Creating group for server: T1-SRV93 with prefix: TSG_T1_Batch_T1-SRV93 in OU: Tier1 Batch Users
+2026-04-29 13:19:46 [INFO] Creating group for server: T1-SRV-010 with prefix: TSG_T1_Batch_T1-SRV-010 in OU: Tier1 Batch Users
+2026-04-29 13:19:46 [INFO] Creating group for server: T1-SRV-011 with prefix: TSG_T1_Batch_T1-SRV-011 in OU: Tier1 Batch Users
+2026-04-29 13:19:46 [INFO] Creating group for server: T1-SRV-012 with prefix: TSG_T1_Batch_T1-SRV-012 in OU: Tier1 Batch Users
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-013 with prefix: TSG_T1_Batch_T1-SRV-013 in OU: Tier1 Batch Users
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-014 with prefix: TSG_T1_Batch_T1-SRV-014 in OU: Tier1 Batch Users
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-015 with prefix: TSG_T1_Batch_T1-SRV-015 in OU: Tier1 Batch Users
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV90 with prefix: TSG_T1_Remote_Desktop_T1-SRV90 in OU: Tier1 Remote Desktop
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV91 with prefix: TSG_T1_Remote_Desktop_T1-SRV91 in OU: Tier1 Remote Desktop
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV93 with prefix: TSG_T1_Remote_Desktop_T1-SRV93 in OU: Tier1 Remote Desktop
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-010 with prefix: TSG_T1_Remote_Desktop_T1-SRV-010 in OU: Tier1 Remote Desktop
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-011 with prefix: TSG_T1_Remote_Desktop_T1-SRV-011 in OU: Tier1 Remote Desktop
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-012 with prefix: TSG_T1_Remote_Desktop_T1-SRV-012 in OU: Tier1 Remote Desktop
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-013 with prefix: TSG_T1_Remote_Desktop_T1-SRV-013 in OU: Tier1 Remote Desktop
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-014 with prefix: TSG_T1_Remote_Desktop_T1-SRV-014 in OU: Tier1 Remote Desktop
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-015 with prefix: TSG_T1_Remote_Desktop_T1-SRV-015 in OU: Tier1 Remote Desktop
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV90 with prefix: TSG_T1_Service_Account_T1-SRV90 in OU: Tier1 Service Accounts
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV91 with prefix: TSG_T1_Service_Account_T1-SRV91 in OU: Tier1 Service Accounts
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV93 with prefix: TSG_T1_Service_Account_T1-SRV93 in OU: Tier1 Service Accounts
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-010 with prefix: TSG_T1_Service_Account_T1-SRV-010 in OU: Tier1 Service Accounts
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-011 with prefix: TSG_T1_Service_Account_T1-SRV-011 in OU: Tier1 Service Accounts
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-012 with prefix: TSG_T1_Service_Account_T1-SRV-012 in OU: Tier1 Service Accounts
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-013 with prefix: TSG_T1_Service_Account_T1-SRV-013 in OU: Tier1 Service Accounts
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-014 with prefix: TSG_T1_Service_Account_T1-SRV-014 in OU: Tier1 Service Accounts
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-015 with prefix: TSG_T1_Service_Account_T1-SRV-015 in OU: Tier1 Service Accounts
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV90 with prefix: TSG_T1_Local_Admin_T1-SRV90 in OU: Tier1 Admins
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV91 with prefix: TSG_T1_Local_Admin_T1-SRV91 in OU: Tier1 Admins
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV93 with prefix: TSG_T1_Local_Admin_T1-SRV93 in OU: Tier1 Admins
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-010 with prefix: TSG_T1_Local_Admin_T1-SRV-010 in OU: Tier1 Admins
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-011 with prefix: TSG_T1_Local_Admin_T1-SRV-011 in OU: Tier1 Admins
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-012 with prefix: TSG_T1_Local_Admin_T1-SRV-012 in OU: Tier1 Admins
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-013 with prefix: TSG_T1_Local_Admin_T1-SRV-013 in OU: Tier1 Admins
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-014 with prefix: TSG_T1_Local_Admin_T1-SRV-014 in OU: Tier1 Admins
+2026-04-29 13:19:47 [INFO] Creating group for server: T1-SRV-015 with prefix: TSG_T1_Local_Admin_T1-SRV-015 in OU: Tier1 Admins
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV04 because computer T0-SRV04 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV04-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV05 because computer T0-SRV05 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV05-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV01-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV02 because computer T0-SRV02 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV02-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV03 because computer T0-SRV03 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV03-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV06 because computer T0-SRV06 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV06 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV06-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV07 because computer T0-SRV07 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV07 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV07-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV04 because computer T0-SRV04 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV04-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV05 because computer T0-SRV05 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV05-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV01 because computer T0-SRV01 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV01-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV02 because computer T0-SRV02 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV02-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV03 because computer T0-SRV03 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV03-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV06 because computer T0-SRV06 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV06 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV06-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV07 because computer T0-SRV07 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV07 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV07-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV08 because computer T0-SRV08 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV08 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV08-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV08 because computer T0-SRV08 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV08 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV08-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV09 because computer T0-SRV09 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV09 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV09-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV10 because computer T0-SRV10 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV10 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV10-20260429132003.csv
+2026-04-29 13:20:03 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-01 because computer T0-SRV-01 does not exist
+2026-04-29 13:20:03 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV-01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV-01-20260429132003.csv
+2026-04-29 13:20:04 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-02 because computer T0-SRV-02 does not exist
+2026-04-29 13:20:04 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-03 because computer T0-SRV-03 does not exist
+2026-04-29 13:20:04 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV-03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV-03-20260429132004.csv
+2026-04-29 13:20:04 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-04 because computer T0-SRV-04 does not exist
+2026-04-29 13:20:04 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV-04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV-04-20260429132004.csv
+2026-04-29 13:20:04 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-05 because computer T0-SRV-05 does not exist
+2026-04-29 13:20:04 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV09 because computer T0-SRV09 does not exist
+2026-04-29 13:20:04 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV09 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV09-20260429132004.csv
+2026-04-29 13:20:04 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV10 because computer T0-SRV10 does not exist
+2026-04-29 13:20:04 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV10 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV10-20260429132004.csv
+2026-04-29 13:20:04 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV-01 because computer T0-SRV-01 does not exist
+2026-04-29 13:20:04 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-01-20260429132004.csv
+2026-04-29 13:20:04 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV-02 because computer T0-SRV-02 does not exist
+2026-04-29 13:20:04 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-02-20260429132004.csv
+2026-04-29 13:20:04 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV-03 because computer T0-SRV-03 does not exist
+2026-04-29 13:20:04 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-03-20260429132004.csv
+2026-04-29 13:20:04 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-04-20260429132004.csv
+2026-04-29 13:20:04 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV-05 because computer T0-SRV-05 does not exist
+2026-04-29 13:20:04 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-05-20260429132004.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Batch_T1-SRV04 because computer T1-SRV04 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Batch_T1-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV04-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Batch_T1-SRV05 because computer T1-SRV05 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Batch_T1-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV05-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Batch_T1-SRV06 because computer T1-SRV06 does not exist
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV04 because computer T1-SRV04 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV04-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV05 because computer T1-SRV05 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV05-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV06 because computer T1-SRV06 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV06 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV06-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV04-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV05 because computer T1-SRV05 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV05-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV06 because computer T1-SRV06 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV06 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV06-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV04 because computer T1-SRV04 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV04-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV05 because computer T1-SRV05 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV05-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV06 because computer T1-SRV06 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV06 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV06-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Batch_T1-SRV03 because computer T1-SRV03 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Batch_T1-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV03-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Batch_T1-SRV01 because computer T1-SRV01 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Batch_T1-SRV01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV01-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Batch_T1-SRV02 because computer T1-SRV02 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Batch_T1-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV02-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV03 because computer T1-SRV03 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV03-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV01 because computer T1-SRV01 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV01-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV02 because computer T1-SRV02 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV02-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV03 because computer T1-SRV03 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV03-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV01-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV02 because computer T1-SRV02 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV02-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV03 because computer T1-SRV03 does not exist
+2026-04-29 13:25:03 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV03-20260429132503.csv
+2026-04-29 13:25:03 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV01 because computer T1-SRV01 does not exist
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV02 because computer T1-SRV02 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV02-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Batch_T1-SRV90 because computer T1-SRV90 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Batch_T1-SRV90 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV90-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Batch_T1-SRV91 because computer T1-SRV91 does not exist
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Batch_T1-SRV93 because computer T1-SRV93 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Batch_T1-SRV93 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV93-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Batch_T1-SRV-010 because computer T1-SRV-010 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-010 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-010-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Batch_T1-SRV-011 because computer T1-SRV-011 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-011 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-011-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Batch_T1-SRV-012 because computer T1-SRV-012 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-012 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-012-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Batch_T1-SRV-013 because computer T1-SRV-013 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-013 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-013-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Batch_T1-SRV-014 because computer T1-SRV-014 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-014 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-014-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Batch_T1-SRV-015 because computer T1-SRV-015 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-015 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-015-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV90 because computer T1-SRV90 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV90 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV90-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV91 because computer T1-SRV91 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV91 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV91-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV93 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV93-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-010 because computer T1-SRV-010 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-010 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-010-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-011 because computer T1-SRV-011 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-011 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-011-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-012 because computer T1-SRV-012 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-012 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-012-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-013 because computer T1-SRV-013 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-013 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-013-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-014 because computer T1-SRV-014 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-014 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-014-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-015 because computer T1-SRV-015 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-015 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-015-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV90 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV90-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV91 because computer T1-SRV91 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV91 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV91-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV93 because computer T1-SRV93 does not exist
+2026-04-29 13:25:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV93 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV93-20260429132504.csv
+2026-04-29 13:25:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-010 because computer T1-SRV-010 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-010 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-010-20260429132504.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-011 because computer T1-SRV-011 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-011 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-011-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-012 because computer T1-SRV-012 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-012 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-012-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-013 because computer T1-SRV-013 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-013 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-013-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-014 because computer T1-SRV-014 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-014 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-014-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-015 because computer T1-SRV-015 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-015 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-015-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV90 because computer T1-SRV90 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV90 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV90-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV91 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV91-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV93 because computer T1-SRV93 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV93 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV93-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-010 because computer T1-SRV-010 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-010 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-010-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-011 because computer T1-SRV-011 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-011 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-011-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-012 because computer T1-SRV-012 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-012 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-012-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-013 because computer T1-SRV-013 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-013 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-013-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-014 because computer T1-SRV-014 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-014 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-014-20260429132505.csv
+2026-04-29 13:25:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-015 because computer T1-SRV-015 does not exist
+2026-04-29 13:25:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-015 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-015-20260429132505.csv
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV01 with prefix: TSG_T0_Service_Account_T0-SRV01 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV02 with prefix: TSG_T0_Service_Account_T0-SRV02 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV03 with prefix: TSG_T0_Service_Account_T0-SRV03 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV04 with prefix: TSG_T0_Service_Account_T0-SRV04 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV05 with prefix: TSG_T0_Service_Account_T0-SRV05 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-01 with prefix: TSG_T0_Service_Account_T0-SRV-01 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-02 with prefix: TSG_T0_Service_Account_T0-SRV-02 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-03 with prefix: TSG_T0_Service_Account_T0-SRV-03 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-04 with prefix: TSG_T0_Service_Account_T0-SRV-04 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-05 with prefix: TSG_T0_Service_Account_T0-SRV-05 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-06 with prefix: TSG_T0_Service_Account_T0-SRV-06 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-07 with prefix: TSG_T0_Service_Account_T0-SRV-07 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-08 with prefix: TSG_T0_Service_Account_T0-SRV-08 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-09 with prefix: TSG_T0_Service_Account_T0-SRV-09 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-010 with prefix: TSG_T0_Service_Account_T0-SRV-010 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-011 with prefix: TSG_T0_Service_Account_T0-SRV-011 in OU: Tier0 Service Accounts
+2026-04-29 13:28:18 [INFO] Creating group for server: T0-SRV-013 with prefix: TSG_T0_Service_Account_T0-SRV-013 in OU: Tier0 Service Accounts
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-014 with prefix: TSG_T0_Service_Account_T0-SRV-014 in OU: Tier0 Service Accounts
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-015 with prefix: TSG_T0_Service_Account_T0-SRV-015 in OU: Tier0 Service Accounts
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV01 with prefix: TSG_T0_Local_Admin_T0-SRV01 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV02 with prefix: TSG_T0_Local_Admin_T0-SRV02 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV03 with prefix: TSG_T0_Local_Admin_T0-SRV03 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV04 with prefix: TSG_T0_Local_Admin_T0-SRV04 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV05 with prefix: TSG_T0_Local_Admin_T0-SRV05 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-01 with prefix: TSG_T0_Local_Admin_T0-SRV-01 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-02 with prefix: TSG_T0_Local_Admin_T0-SRV-02 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-03 with prefix: TSG_T0_Local_Admin_T0-SRV-03 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-05 with prefix: TSG_T0_Local_Admin_T0-SRV-05 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-06 with prefix: TSG_T0_Local_Admin_T0-SRV-06 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-07 with prefix: TSG_T0_Local_Admin_T0-SRV-07 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-08 with prefix: TSG_T0_Local_Admin_T0-SRV-08 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-09 with prefix: TSG_T0_Local_Admin_T0-SRV-09 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-010 with prefix: TSG_T0_Local_Admin_T0-SRV-010 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-011 with prefix: TSG_T0_Local_Admin_T0-SRV-011 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-012 with prefix: TSG_T0_Local_Admin_T0-SRV-012 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-013 with prefix: TSG_T0_Local_Admin_T0-SRV-013 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-014 with prefix: TSG_T0_Local_Admin_T0-SRV-014 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T0-SRV-015 with prefix: TSG_T0_Local_Admin_T0-SRV-015 in OU: Tier0 Admins
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV01 with prefix: TSG_T1_Batch_T1-SRV01 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV02 with prefix: TSG_T1_Batch_T1-SRV02 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV03 with prefix: TSG_T1_Batch_T1-SRV03 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV04 with prefix: TSG_T1_Batch_T1-SRV04 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV05 with prefix: TSG_T1_Batch_T1-SRV05 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-01 with prefix: TSG_T1_Batch_T1-SRV-01 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-02 with prefix: TSG_T1_Batch_T1-SRV-02 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-03 with prefix: TSG_T1_Batch_T1-SRV-03 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-04 with prefix: TSG_T1_Batch_T1-SRV-04 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-05 with prefix: TSG_T1_Batch_T1-SRV-05 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-06 with prefix: TSG_T1_Batch_T1-SRV-06 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-07 with prefix: TSG_T1_Batch_T1-SRV-07 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-09 with prefix: TSG_T1_Batch_T1-SRV-09 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-010 with prefix: TSG_T1_Batch_T1-SRV-010 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-011 with prefix: TSG_T1_Batch_T1-SRV-011 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-012 with prefix: TSG_T1_Batch_T1-SRV-012 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-013 with prefix: TSG_T1_Batch_T1-SRV-013 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-014 with prefix: TSG_T1_Batch_T1-SRV-014 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-015 with prefix: TSG_T1_Batch_T1-SRV-015 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-016 with prefix: TSG_T1_Batch_T1-SRV-016 in OU: Tier1 Batch Users
+2026-04-29 13:28:19 [INFO] Creating group for server: T1-SRV-017 with prefix: TSG_T1_Batch_T1-SRV-017 in OU: Tier1 Batch Users
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-018 with prefix: TSG_T1_Batch_T1-SRV-018 in OU: Tier1 Batch Users
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-019 with prefix: TSG_T1_Batch_T1-SRV-019 in OU: Tier1 Batch Users
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-020 with prefix: TSG_T1_Batch_T1-SRV-020 in OU: Tier1 Batch Users
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-021 with prefix: TSG_T1_Batch_T1-SRV-021 in OU: Tier1 Batch Users
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-022 with prefix: TSG_T1_Batch_T1-SRV-022 in OU: Tier1 Batch Users
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-023 with prefix: TSG_T1_Batch_T1-SRV-023 in OU: Tier1 Batch Users
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-024 with prefix: TSG_T1_Batch_T1-SRV-024 in OU: Tier1 Batch Users
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-025 with prefix: TSG_T1_Batch_T1-SRV-025 in OU: Tier1 Batch Users
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV01 with prefix: TSG_T1_Remote_Desktop_T1-SRV01 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV02 with prefix: TSG_T1_Remote_Desktop_T1-SRV02 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV03 with prefix: TSG_T1_Remote_Desktop_T1-SRV03 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV04 with prefix: TSG_T1_Remote_Desktop_T1-SRV04 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV05 with prefix: TSG_T1_Remote_Desktop_T1-SRV05 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-01 with prefix: TSG_T1_Remote_Desktop_T1-SRV-01 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-02 with prefix: TSG_T1_Remote_Desktop_T1-SRV-02 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-03 with prefix: TSG_T1_Remote_Desktop_T1-SRV-03 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-04 with prefix: TSG_T1_Remote_Desktop_T1-SRV-04 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-05 with prefix: TSG_T1_Remote_Desktop_T1-SRV-05 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-06 with prefix: TSG_T1_Remote_Desktop_T1-SRV-06 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-07 with prefix: TSG_T1_Remote_Desktop_T1-SRV-07 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-08 with prefix: TSG_T1_Remote_Desktop_T1-SRV-08 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-09 with prefix: TSG_T1_Remote_Desktop_T1-SRV-09 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-010 with prefix: TSG_T1_Remote_Desktop_T1-SRV-010 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-011 with prefix: TSG_T1_Remote_Desktop_T1-SRV-011 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-012 with prefix: TSG_T1_Remote_Desktop_T1-SRV-012 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-013 with prefix: TSG_T1_Remote_Desktop_T1-SRV-013 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-014 with prefix: TSG_T1_Remote_Desktop_T1-SRV-014 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-015 with prefix: TSG_T1_Remote_Desktop_T1-SRV-015 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-016 with prefix: TSG_T1_Remote_Desktop_T1-SRV-016 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-017 with prefix: TSG_T1_Remote_Desktop_T1-SRV-017 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-018 with prefix: TSG_T1_Remote_Desktop_T1-SRV-018 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-020 with prefix: TSG_T1_Remote_Desktop_T1-SRV-020 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-021 with prefix: TSG_T1_Remote_Desktop_T1-SRV-021 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-022 with prefix: TSG_T1_Remote_Desktop_T1-SRV-022 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-023 with prefix: TSG_T1_Remote_Desktop_T1-SRV-023 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-024 with prefix: TSG_T1_Remote_Desktop_T1-SRV-024 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-025 with prefix: TSG_T1_Remote_Desktop_T1-SRV-025 in OU: Tier1 Remote Desktop
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV01 with prefix: TSG_T1_Service_Account_T1-SRV01 in OU: Tier1 Service Accounts
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV02 with prefix: TSG_T1_Service_Account_T1-SRV02 in OU: Tier1 Service Accounts
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV03 with prefix: TSG_T1_Service_Account_T1-SRV03 in OU: Tier1 Service Accounts
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV04 with prefix: TSG_T1_Service_Account_T1-SRV04 in OU: Tier1 Service Accounts
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV05 with prefix: TSG_T1_Service_Account_T1-SRV05 in OU: Tier1 Service Accounts
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-01 with prefix: TSG_T1_Service_Account_T1-SRV-01 in OU: Tier1 Service Accounts
+2026-04-29 13:28:20 [INFO] Creating group for server: T1-SRV-02 with prefix: TSG_T1_Service_Account_T1-SRV-02 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-03 with prefix: TSG_T1_Service_Account_T1-SRV-03 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-04 with prefix: TSG_T1_Service_Account_T1-SRV-04 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-05 with prefix: TSG_T1_Service_Account_T1-SRV-05 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-06 with prefix: TSG_T1_Service_Account_T1-SRV-06 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-07 with prefix: TSG_T1_Service_Account_T1-SRV-07 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-08 with prefix: TSG_T1_Service_Account_T1-SRV-08 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-09 with prefix: TSG_T1_Service_Account_T1-SRV-09 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-010 with prefix: TSG_T1_Service_Account_T1-SRV-010 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-011 with prefix: TSG_T1_Service_Account_T1-SRV-011 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-012 with prefix: TSG_T1_Service_Account_T1-SRV-012 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-013 with prefix: TSG_T1_Service_Account_T1-SRV-013 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-014 with prefix: TSG_T1_Service_Account_T1-SRV-014 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-015 with prefix: TSG_T1_Service_Account_T1-SRV-015 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-016 with prefix: TSG_T1_Service_Account_T1-SRV-016 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-017 with prefix: TSG_T1_Service_Account_T1-SRV-017 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-018 with prefix: TSG_T1_Service_Account_T1-SRV-018 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-019 with prefix: TSG_T1_Service_Account_T1-SRV-019 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-020 with prefix: TSG_T1_Service_Account_T1-SRV-020 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-021 with prefix: TSG_T1_Service_Account_T1-SRV-021 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-022 with prefix: TSG_T1_Service_Account_T1-SRV-022 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-023 with prefix: TSG_T1_Service_Account_T1-SRV-023 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-024 with prefix: TSG_T1_Service_Account_T1-SRV-024 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-025 with prefix: TSG_T1_Service_Account_T1-SRV-025 in OU: Tier1 Service Accounts
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV01 with prefix: TSG_T1_Local_Admin_T1-SRV01 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV02 with prefix: TSG_T1_Local_Admin_T1-SRV02 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV03 with prefix: TSG_T1_Local_Admin_T1-SRV03 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV04 with prefix: TSG_T1_Local_Admin_T1-SRV04 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV05 with prefix: TSG_T1_Local_Admin_T1-SRV05 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-01 with prefix: TSG_T1_Local_Admin_T1-SRV-01 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-02 with prefix: TSG_T1_Local_Admin_T1-SRV-02 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-03 with prefix: TSG_T1_Local_Admin_T1-SRV-03 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-04 with prefix: TSG_T1_Local_Admin_T1-SRV-04 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-05 with prefix: TSG_T1_Local_Admin_T1-SRV-05 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-06 with prefix: TSG_T1_Local_Admin_T1-SRV-06 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-08 with prefix: TSG_T1_Local_Admin_T1-SRV-08 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-09 with prefix: TSG_T1_Local_Admin_T1-SRV-09 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-010 with prefix: TSG_T1_Local_Admin_T1-SRV-010 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-011 with prefix: TSG_T1_Local_Admin_T1-SRV-011 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-012 with prefix: TSG_T1_Local_Admin_T1-SRV-012 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-013 with prefix: TSG_T1_Local_Admin_T1-SRV-013 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-014 with prefix: TSG_T1_Local_Admin_T1-SRV-014 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-015 with prefix: TSG_T1_Local_Admin_T1-SRV-015 in OU: Tier1 Admins
+2026-04-29 13:28:21 [INFO] Creating group for server: T1-SRV-016 with prefix: TSG_T1_Local_Admin_T1-SRV-016 in OU: Tier1 Admins
+2026-04-29 13:28:22 [INFO] Creating group for server: T1-SRV-017 with prefix: TSG_T1_Local_Admin_T1-SRV-017 in OU: Tier1 Admins
+2026-04-29 13:28:22 [INFO] Creating group for server: T1-SRV-018 with prefix: TSG_T1_Local_Admin_T1-SRV-018 in OU: Tier1 Admins
+2026-04-29 13:28:22 [INFO] Creating group for server: T1-SRV-020 with prefix: TSG_T1_Local_Admin_T1-SRV-020 in OU: Tier1 Admins
+2026-04-29 13:28:22 [INFO] Creating group for server: T1-SRV-021 with prefix: TSG_T1_Local_Admin_T1-SRV-021 in OU: Tier1 Admins
+2026-04-29 13:28:22 [INFO] Creating group for server: T1-SRV-022 with prefix: TSG_T1_Local_Admin_T1-SRV-022 in OU: Tier1 Admins
+2026-04-29 13:28:22 [INFO] Creating group for server: T1-SRV-023 with prefix: TSG_T1_Local_Admin_T1-SRV-023 in OU: Tier1 Admins
+2026-04-29 13:28:22 [INFO] Creating group for server: T1-SRV-024 with prefix: TSG_T1_Local_Admin_T1-SRV-024 in OU: Tier1 Admins
+2026-04-29 13:30:55 [INFO] Deleting group TSG_T1_Batch_T1-SRV01 because computer T1-SRV01 does not exist
+2026-04-29 13:30:55 [INFO] Backed up members of TSG_T1_Batch_T1-SRV01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV01-20260429133055.csv
+2026-04-29 13:30:55 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV01 because computer T1-SRV01 does not exist
+2026-04-29 13:30:55 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV01-20260429133055.csv
+2026-04-29 13:30:55 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV01 because computer T1-SRV01 does not exist
+2026-04-29 13:30:55 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV01-20260429133055.csv
+2026-04-29 13:30:56 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV01 because computer T1-SRV01 does not exist
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Batch_T1-SRV-01 because computer T1-SRV-01 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-01-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Batch_T1-SRV02 because computer T1-SRV02 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Batch_T1-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV02-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Batch_T1-SRV03 because computer T1-SRV03 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Batch_T1-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV03-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Batch_T1-SRV04 because computer T1-SRV04 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Batch_T1-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV04-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Batch_T1-SRV05 because computer T1-SRV05 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Batch_T1-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV05-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-01 because computer T1-SRV-01 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-01-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV02 because computer T1-SRV02 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV02-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV03 because computer T1-SRV03 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV03-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV04 because computer T1-SRV04 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV04-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV05 because computer T1-SRV05 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV05-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-01 because computer T1-SRV-01 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-01-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV02 because computer T1-SRV02 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV02-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV03 because computer T1-SRV03 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV03-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV04 because computer T1-SRV04 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV04-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV05 because computer T1-SRV05 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV05-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-01 because computer T1-SRV-01 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-01-20260429133134.csv
+2026-04-29 13:31:34 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV02 because computer T1-SRV02 does not exist
+2026-04-29 13:31:34 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV02-20260429133134.csv
+2026-04-29 13:31:35 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV03 because computer T1-SRV03 does not exist
+2026-04-29 13:31:35 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV03-20260429133135.csv
+2026-04-29 13:31:35 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV04 because computer T1-SRV04 does not exist
+2026-04-29 13:31:35 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV04-20260429133135.csv
+2026-04-29 13:31:35 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV05 because computer T1-SRV05 does not exist
+2026-04-29 13:31:35 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV05-20260429133135.csv
+2026-04-29 13:31:49 [INFO] Deleting group TSG_T1_Batch_T1-SRV-02 because computer T1-SRV-02 does not exist
+2026-04-29 13:31:49 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-02-20260429133149.csv
+2026-04-29 13:31:49 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-02 because computer T1-SRV-02 does not exist
+2026-04-29 13:31:49 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-02-20260429133149.csv
+2026-04-29 13:31:50 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-02 because computer T1-SRV-02 does not exist
+2026-04-29 13:31:50 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-02-20260429133150.csv
+2026-04-29 13:31:50 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-02 because computer T1-SRV-02 does not exist
+2026-04-29 13:31:50 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-02-20260429133150.csv
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SRV-01 with prefix: TSG_T1_Batch_T1-SRV-01 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SRV-02 with prefix: TSG_T1_Batch_T1-SRV-02 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-01 with prefix: TSG_T1_Batch_T1-SR-01 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-02 with prefix: TSG_T1_Batch_T1-SR-02 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-03 with prefix: TSG_T1_Batch_T1-SR-03 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-04 with prefix: TSG_T1_Batch_T1-SR-04 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-05 with prefix: TSG_T1_Batch_T1-SR-05 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-06 with prefix: TSG_T1_Batch_T1-SR-06 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-07 with prefix: TSG_T1_Batch_T1-SR-07 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-08 with prefix: TSG_T1_Batch_T1-SR-08 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-09 with prefix: TSG_T1_Batch_T1-SR-09 in OU: Tier1 Batch Users
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SRV-01 with prefix: TSG_T1_Remote_Desktop_T1-SRV-01 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SRV-02 with prefix: TSG_T1_Remote_Desktop_T1-SRV-02 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-01 with prefix: TSG_T1_Remote_Desktop_T1-SR-01 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-02 with prefix: TSG_T1_Remote_Desktop_T1-SR-02 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-03 with prefix: TSG_T1_Remote_Desktop_T1-SR-03 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-04 with prefix: TSG_T1_Remote_Desktop_T1-SR-04 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-05 with prefix: TSG_T1_Remote_Desktop_T1-SR-05 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-06 with prefix: TSG_T1_Remote_Desktop_T1-SR-06 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-07 with prefix: TSG_T1_Remote_Desktop_T1-SR-07 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-08 with prefix: TSG_T1_Remote_Desktop_T1-SR-08 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-09 with prefix: TSG_T1_Remote_Desktop_T1-SR-09 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SRV-01 with prefix: TSG_T1_Service_Account_T1-SRV-01 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SRV-02 with prefix: TSG_T1_Service_Account_T1-SRV-02 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-01 with prefix: TSG_T1_Service_Account_T1-SR-01 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-02 with prefix: TSG_T1_Service_Account_T1-SR-02 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-03 with prefix: TSG_T1_Service_Account_T1-SR-03 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-04 with prefix: TSG_T1_Service_Account_T1-SR-04 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-05 with prefix: TSG_T1_Service_Account_T1-SR-05 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-06 with prefix: TSG_T1_Service_Account_T1-SR-06 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-07 with prefix: TSG_T1_Service_Account_T1-SR-07 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-08 with prefix: TSG_T1_Service_Account_T1-SR-08 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-09 with prefix: TSG_T1_Service_Account_T1-SR-09 in OU: Tier1 Service Accounts
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SRV-01 with prefix: TSG_T1_Local_Admin_T1-SRV-01 in OU: Tier1 Admins
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SRV-02 with prefix: TSG_T1_Local_Admin_T1-SRV-02 in OU: Tier1 Admins
+2026-04-29 13:35:00 [INFO] Creating group for server: T1-SR-01 with prefix: TSG_T1_Local_Admin_T1-SR-01 in OU: Tier1 Admins
+2026-04-29 13:35:01 [INFO] Creating group for server: T1-SR-02 with prefix: TSG_T1_Local_Admin_T1-SR-02 in OU: Tier1 Admins
+2026-04-29 13:35:01 [INFO] Creating group for server: T1-SR-03 with prefix: TSG_T1_Local_Admin_T1-SR-03 in OU: Tier1 Admins
+2026-04-29 13:35:01 [INFO] Creating group for server: T1-SR-04 with prefix: TSG_T1_Local_Admin_T1-SR-04 in OU: Tier1 Admins
+2026-04-29 13:35:01 [INFO] Creating group for server: T1-SR-05 with prefix: TSG_T1_Local_Admin_T1-SR-05 in OU: Tier1 Admins
+2026-04-29 13:35:01 [INFO] Creating group for server: T1-SR-06 with prefix: TSG_T1_Local_Admin_T1-SR-06 in OU: Tier1 Admins
+2026-04-29 13:35:01 [INFO] Creating group for server: T1-SR-07 with prefix: TSG_T1_Local_Admin_T1-SR-07 in OU: Tier1 Admins
+2026-04-29 13:35:01 [INFO] Creating group for server: T1-SR-08 with prefix: TSG_T1_Local_Admin_T1-SR-08 in OU: Tier1 Admins
+2026-04-29 13:35:01 [INFO] Creating group for server: T1-SR-09 with prefix: TSG_T1_Local_Admin_T1-SR-09 in OU: Tier1 Admins
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV01 because computer T0-SRV01 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV01-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV02 because computer T0-SRV02 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV02-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV03-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV04 because computer T0-SRV04 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV04-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV05 because computer T0-SRV05 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV05-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-010 because computer T0-SRV-010 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV-010 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV-010-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-011 because computer T0-SRV-011 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV-011 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV-011-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-012 because computer T0-SRV-012 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV-012 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV-012-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-013 because computer T0-SRV-013 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV-013 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV-013-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-014 because computer T0-SRV-014 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV-014 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV-014-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Service_Account_T0-SRV-015 because computer T0-SRV-015 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Service_Account_T0-SRV-015 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Service_Account_T0-SRV-015-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV01 because computer T0-SRV01 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV01-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV02 because computer T0-SRV02 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV02-20260429133501.csv
+2026-04-29 13:35:01 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV03 because computer T0-SRV03 does not exist
+2026-04-29 13:35:01 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV03-20260429133501.csv
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV04-20260429133501.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV05 because computer T0-SRV05 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV05-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV-010 because computer T0-SRV-010 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-010 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-010-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-011 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-011-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV-012 because computer T0-SRV-012 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-012 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-012-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV-013 because computer T0-SRV-013 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-013 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-013-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV-014 because computer T0-SRV-014 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-014 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-014-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T0_Local_Admin_T0-SRV-015 because computer T0-SRV-015 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T0_Local_Admin_T0-SRV-015 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T0_Local_Admin_T0-SRV-015-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-010 because computer T1-SRV-010 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-010 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-010-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-011 because computer T1-SRV-011 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-011 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-011-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-012 because computer T1-SRV-012 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-012 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-012-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-013 because computer T1-SRV-013 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-013 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-013-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-014 because computer T1-SRV-014 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-014 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-014-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-015 because computer T1-SRV-015 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-015 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-015-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-016 because computer T1-SRV-016 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-016 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-016-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-017 because computer T1-SRV-017 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-017 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-017-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-018 because computer T1-SRV-018 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-018 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-018-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-019 because computer T1-SRV-019 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-019 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-019-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-020 because computer T1-SRV-020 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-020 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-020-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-021 because computer T1-SRV-021 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-021 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-021-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-022 because computer T1-SRV-022 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-022 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-022-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-023 because computer T1-SRV-023 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-023 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-023-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-024 because computer T1-SRV-024 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-024 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-024-20260429133502.csv
+2026-04-29 13:35:02 [INFO] Deleting group TSG_T1_Batch_T1-SRV-025 because computer T1-SRV-025 does not exist
+2026-04-29 13:35:02 [INFO] Backed up members of TSG_T1_Batch_T1-SRV-025 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SRV-025-20260429133502.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-010 because computer T1-SRV-010 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-010 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-010-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-011 because computer T1-SRV-011 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-011 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-011-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-012 because computer T1-SRV-012 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-012 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-012-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-013 because computer T1-SRV-013 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-013 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-013-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-014 because computer T1-SRV-014 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-014 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-014-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-015 because computer T1-SRV-015 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-015 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-015-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-016 because computer T1-SRV-016 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-016 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-016-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-017 because computer T1-SRV-017 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-017 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-017-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-018 because computer T1-SRV-018 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-018 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-018-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-019 because computer T1-SRV-019 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-019 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-019-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-020 because computer T1-SRV-020 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-020 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-020-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-021 because computer T1-SRV-021 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-021 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-021-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-022 because computer T1-SRV-022 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-022 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-022-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-023 because computer T1-SRV-023 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-023 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-023-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-024 because computer T1-SRV-024 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-024 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-024-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SRV-025 because computer T1-SRV-025 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SRV-025 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SRV-025-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-010 because computer T1-SRV-010 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-010 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-010-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-011 because computer T1-SRV-011 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-011 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-011-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-012 because computer T1-SRV-012 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-012 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-012-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-013 because computer T1-SRV-013 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-013 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-013-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-014 because computer T1-SRV-014 does not exist
+2026-04-29 13:35:03 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-014 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-014-20260429133503.csv
+2026-04-29 13:35:03 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-015 because computer T1-SRV-015 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-015 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-015-20260429133503.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-016 because computer T1-SRV-016 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-016 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-016-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-017 because computer T1-SRV-017 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-017 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-017-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-018 because computer T1-SRV-018 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-018 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-018-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-019 because computer T1-SRV-019 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-019 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-019-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-020 because computer T1-SRV-020 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-020 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-020-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-021 because computer T1-SRV-021 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-021 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-021-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-022 because computer T1-SRV-022 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-022 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-022-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-023 because computer T1-SRV-023 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-023 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-023-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-024 because computer T1-SRV-024 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-024 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-024-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Service_Account_T1-SRV-025 because computer T1-SRV-025 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Service_Account_T1-SRV-025 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SRV-025-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-010 because computer T1-SRV-010 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-010 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-010-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-011 because computer T1-SRV-011 does not exist
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-010 because computer T1-SRV-010 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-011 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-011-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-012 because computer T1-SRV-012 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-012 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-012-20260429133504.csv
+2026-04-29 13:35:04 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-013 because computer T1-SRV-013 does not exist
+2026-04-29 13:35:04 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-013 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-013-20260429133504.csv
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-014 because computer T1-SRV-014 does not exist
+2026-04-29 13:35:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-014 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-014-20260429133505.csv
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-015 because computer T1-SRV-015 does not exist
+2026-04-29 13:35:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-015 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-015-20260429133505.csv
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-016 because computer T1-SRV-016 does not exist
+2026-04-29 13:35:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-016 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-016-20260429133505.csv
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-017 because computer T1-SRV-017 does not exist
+2026-04-29 13:35:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-017 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-017-20260429133505.csv
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-018 because computer T1-SRV-018 does not exist
+2026-04-29 13:35:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-018 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-018-20260429133505.csv
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-019 because computer T1-SRV-019 does not exist
+2026-04-29 13:35:05 [WARN] Failed to backup members for TSG_T1_Local_Admin_T1-SRV-010 The operation failed because of a bad parameter.
+2026-04-29 13:35:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-019 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-019-20260429133505.csv
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-020 because computer T1-SRV-020 does not exist
+2026-04-29 13:35:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-020 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-020-20260429133505.csv
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-021 because computer T1-SRV-021 does not exist
+2026-04-29 13:35:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-021 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-021-20260429133505.csv
+2026-04-29 13:35:05 [ERROR] Could not delete group TSG_T1_Local_Admin_T1-SRV-010 - Directory object not found
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-011 because computer T1-SRV-011 does not exist
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-022 because computer T1-SRV-022 does not exist
+2026-04-29 13:35:05 [WARN] Failed to backup members for TSG_T1_Local_Admin_T1-SRV-011 The operation failed because of a bad parameter.
+2026-04-29 13:35:05 [ERROR] Could not delete group TSG_T1_Local_Admin_T1-SRV-011 - Directory object not found
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-012 because computer T1-SRV-012 does not exist
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-023 because computer T1-SRV-023 does not exist
+2026-04-29 13:35:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-023 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-023-20260429133505.csv
+2026-04-29 13:35:05 [WARN] Failed to backup members for TSG_T1_Local_Admin_T1-SRV-012 The operation failed because of a bad parameter.
+2026-04-29 13:35:05 [ERROR] Could not delete group TSG_T1_Local_Admin_T1-SRV-012 - Directory object not found
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-024 because computer T1-SRV-024 does not exist
+2026-04-29 13:35:05 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-013 because computer T1-SRV-013 does not exist
+2026-04-29 13:35:05 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SRV-024 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SRV-024-20260429133505.csv
+2026-04-29 13:35:06 [WARN] Failed to backup members for TSG_T1_Local_Admin_T1-SRV-023 The operation failed because of a bad parameter.
+2026-04-29 13:35:06 [ERROR] Could not delete group TSG_T1_Local_Admin_T1-SRV-023 - Directory object not found
+2026-04-29 13:35:06 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-024 because computer T1-SRV-024 does not exist
+2026-04-29 13:35:06 [WARN] Failed to backup members for TSG_T1_Local_Admin_T1-SRV-024 The operation failed because of a bad parameter.
+2026-04-29 13:35:06 [ERROR] Could not delete group TSG_T1_Local_Admin_T1-SRV-024 - Directory object not found
+2026-04-29 13:35:06 [INFO] Deleting group TSG_T1_Local_Admin_T1-SRV-025 because computer T1-SRV-025 does not exist
+2026-04-29 13:35:06 [WARN] Failed to backup members for TSG_T1_Local_Admin_T1-SRV-025 The operation failed because of a bad parameter.
+2026-04-29 13:35:06 [ERROR] Could not delete group TSG_T1_Local_Admin_T1-SRV-025 - Directory object not found
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SR-01 with prefix: TSG_T1_Batch_T1-SR-01 in OU: Tier1 Batch Users
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SR-02 with prefix: TSG_T1_Batch_T1-SR-02 in OU: Tier1 Batch Users
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SR-03 with prefix: TSG_T1_Batch_T1-SR-03 in OU: Tier1 Batch Users
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SR-04 with prefix: TSG_T1_Batch_T1-SR-04 in OU: Tier1 Batch Users
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SR-05 with prefix: TSG_T1_Batch_T1-SR-05 in OU: Tier1 Batch Users
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SR-06 with prefix: TSG_T1_Batch_T1-SR-06 in OU: Tier1 Batch Users
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SR-07 with prefix: TSG_T1_Batch_T1-SR-07 in OU: Tier1 Batch Users
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SR-08 with prefix: TSG_T1_Batch_T1-SR-08 in OU: Tier1 Batch Users
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SR-09 with prefix: TSG_T1_Batch_T1-SR-09 in OU: Tier1 Batch Users
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SRV-01 with prefix: TSG_T1_Remote_Desktop_T1-SRV-01 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SRV-02 with prefix: TSG_T1_Remote_Desktop_T1-SRV-02 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SRV-03 with prefix: TSG_T1_Remote_Desktop_T1-SRV-03 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SRV-04 with prefix: TSG_T1_Remote_Desktop_T1-SRV-04 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:47 [INFO] Creating group for server: T1-SRV-05 with prefix: TSG_T1_Remote_Desktop_T1-SRV-05 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-06 with prefix: TSG_T1_Remote_Desktop_T1-SRV-06 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-07 with prefix: TSG_T1_Remote_Desktop_T1-SRV-07 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-08 with prefix: TSG_T1_Remote_Desktop_T1-SRV-08 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-09 with prefix: TSG_T1_Remote_Desktop_T1-SRV-09 in OU: Tier1 Remote Desktop
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-01 with prefix: TSG_T1_Service_Account_T1-SRV-01 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-02 with prefix: TSG_T1_Service_Account_T1-SRV-02 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SR-01 with prefix: TSG_T1_Service_Account_T1-SR-01 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SR-02 with prefix: TSG_T1_Service_Account_T1-SR-02 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SR-03 with prefix: TSG_T1_Service_Account_T1-SR-03 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SR-04 with prefix: TSG_T1_Service_Account_T1-SR-04 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SR-05 with prefix: TSG_T1_Service_Account_T1-SR-05 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SR-06 with prefix: TSG_T1_Service_Account_T1-SR-06 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SR-07 with prefix: TSG_T1_Service_Account_T1-SR-07 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SR-08 with prefix: TSG_T1_Service_Account_T1-SR-08 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SR-09 with prefix: TSG_T1_Service_Account_T1-SR-09 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-03 with prefix: TSG_T1_Service_Account_T1-SRV-03 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-04 with prefix: TSG_T1_Service_Account_T1-SRV-04 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-05 with prefix: TSG_T1_Service_Account_T1-SRV-05 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-06 with prefix: TSG_T1_Service_Account_T1-SRV-06 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-07 with prefix: TSG_T1_Service_Account_T1-SRV-07 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-08 with prefix: TSG_T1_Service_Account_T1-SRV-08 in OU: Tier1 Service Accounts
+2026-04-29 13:35:48 [INFO] Creating group for server: T1-SRV-09 with prefix: TSG_T1_Service_Account_T1-SRV-09 in OU: Tier1 Service Accounts
+2026-04-29 13:37:41 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SR-01 because computer T1-SR-01 does not exist
+2026-04-29 13:37:41 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SR-01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SR-01-20260429133741.csv
+2026-04-29 13:37:41 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SR-02 because computer T1-SR-02 does not exist
+2026-04-29 13:37:41 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SR-02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SR-02-20260429133741.csv
+2026-04-29 13:37:41 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SR-03 because computer T1-SR-03 does not exist
+2026-04-29 13:37:41 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SR-03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SR-03-20260429133741.csv
+2026-04-29 13:37:41 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SR-04 because computer T1-SR-04 does not exist
+2026-04-29 13:37:41 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SR-04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SR-04-20260429133741.csv
+2026-04-29 13:37:41 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SR-05 because computer T1-SR-05 does not exist
+2026-04-29 13:37:41 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SR-05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SR-05-20260429133741.csv
+2026-04-29 13:37:41 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SR-06 because computer T1-SR-06 does not exist
+2026-04-29 13:37:41 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SR-06 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SR-06-20260429133741.csv
+2026-04-29 13:37:41 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SR-07 because computer T1-SR-07 does not exist
+2026-04-29 13:37:41 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SR-07 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SR-07-20260429133741.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SR-08 because computer T1-SR-08 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SR-08 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SR-08-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Remote_Desktop_T1-SR-09 because computer T1-SR-09 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Remote_Desktop_T1-SR-09 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Remote_Desktop_T1-SR-09-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Local_Admin_T1-SR-01 because computer T1-SR-01 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SR-01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SR-01-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Local_Admin_T1-SR-02 because computer T1-SR-02 does not exist
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Local_Admin_T1-SR-03 because computer T1-SR-03 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SR-03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SR-03-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Local_Admin_T1-SR-04 because computer T1-SR-04 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SR-04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SR-04-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Local_Admin_T1-SR-05 because computer T1-SR-05 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SR-05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SR-05-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Local_Admin_T1-SR-06 because computer T1-SR-06 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SR-06 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SR-06-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Local_Admin_T1-SR-07 because computer T1-SR-07 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SR-07 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SR-07-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Local_Admin_T1-SR-08 because computer T1-SR-08 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SR-08 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SR-08-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Local_Admin_T1-SR-09 because computer T1-SR-09 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Local_Admin_T1-SR-09 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Local_Admin_T1-SR-09-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Batch_T1-SR-01 because computer T1-SR-01 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Batch_T1-SR-01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SR-01-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Batch_T1-SR-02 because computer T1-SR-02 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Batch_T1-SR-02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SR-02-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Batch_T1-SR-03 because computer T1-SR-03 does not exist
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Batch_T1-SR-04 because computer T1-SR-04 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Batch_T1-SR-04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SR-04-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Batch_T1-SR-05 because computer T1-SR-05 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Batch_T1-SR-05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SR-05-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Batch_T1-SR-06 because computer T1-SR-06 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Batch_T1-SR-06 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SR-06-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Batch_T1-SR-07 because computer T1-SR-07 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Batch_T1-SR-07 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SR-07-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Batch_T1-SR-08 because computer T1-SR-08 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Batch_T1-SR-08 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SR-08-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Batch_T1-SR-09 because computer T1-SR-09 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Batch_T1-SR-09 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Batch_T1-SR-09-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Service_Account_T1-SR-01 because computer T1-SR-01 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Service_Account_T1-SR-01 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SR-01-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Service_Account_T1-SR-02 because computer T1-SR-02 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Service_Account_T1-SR-02 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SR-02-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Service_Account_T1-SR-03 because computer T1-SR-03 does not exist
+2026-04-29 13:37:42 [INFO] Backed up members of TSG_T1_Service_Account_T1-SR-03 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SR-03-20260429133742.csv
+2026-04-29 13:37:42 [INFO] Deleting group TSG_T1_Service_Account_T1-SR-04 because computer T1-SR-04 does not exist
+2026-04-29 13:37:43 [INFO] Backed up members of TSG_T1_Service_Account_T1-SR-04 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SR-04-20260429133742.csv
+2026-04-29 13:37:43 [INFO] Deleting group TSG_T1_Service_Account_T1-SR-05 because computer T1-SR-05 does not exist
+2026-04-29 13:37:43 [INFO] Backed up members of TSG_T1_Service_Account_T1-SR-05 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SR-05-20260429133743.csv
+2026-04-29 13:37:43 [INFO] Deleting group TSG_T1_Service_Account_T1-SR-06 because computer T1-SR-06 does not exist
+2026-04-29 13:37:43 [INFO] Backed up members of TSG_T1_Service_Account_T1-SR-06 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SR-06-20260429133743.csv
+2026-04-29 13:37:43 [INFO] Deleting group TSG_T1_Service_Account_T1-SR-07 because computer T1-SR-07 does not exist
+2026-04-29 13:37:43 [INFO] Backed up members of TSG_T1_Service_Account_T1-SR-07 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SR-07-20260429133743.csv
+2026-04-29 13:37:43 [INFO] Deleting group TSG_T1_Service_Account_T1-SR-08 because computer T1-SR-08 does not exist
+2026-04-29 13:37:43 [INFO] Backed up members of TSG_T1_Service_Account_T1-SR-08 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SR-08-20260429133743.csv
+2026-04-29 13:37:43 [INFO] Deleting group TSG_T1_Service_Account_T1-SR-09 because computer T1-SR-09 does not exist
+2026-04-29 13:37:43 [INFO] Backed up members of TSG_T1_Service_Account_T1-SR-09 to C:\ADT-Projekt\Housekeeping\Logs\GroupBackups\TSG_T1_Service_Account_T1-SR-09-20260429133743.csv

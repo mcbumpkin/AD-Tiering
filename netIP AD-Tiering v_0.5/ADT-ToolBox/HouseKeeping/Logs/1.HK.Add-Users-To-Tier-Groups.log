@@ -1,0 +1,102 @@
+2026-04-29 12:26:22 [ERROR] Error retrieving users or group for Tier 0 : Cannot find an object with identity: 'TSG_T0_Users_All' under: 'DC=ADT-LAB,DC=LOCAL'.
+2026-04-29 12:26:22 [ERROR] Error retrieving users or group for Tier 1 : Cannot find an object with identity: 'TSG_T1_Users_All' under: 'DC=ADT-LAB,DC=LOCAL'.
+2026-04-29 12:26:22 [ERROR] Error retrieving users or group for Tier 2 : Cannot find an object with identity: 'TSG_T2_Users_All' under: 'DC=ADT-LAB,DC=LOCAL'.
+2026-04-29 12:26:22 [ERROR] Error retrieving service accounts or group for Tier 0 : Cannot find an object with identity: 'TSG_T0_ServiceAccounts_All' under: 'DC=ADT-LAB,DC=LOCAL'.
+2026-04-29 12:26:22 [ERROR] Error retrieving service accounts or group for Tier 1 : Cannot find an object with identity: 'TSG_T1_ServiceAccounts_All' under: 'DC=ADT-LAB,DC=LOCAL'.
+2026-04-29 12:30:02 [INFO] Added user T0-ADMIN03 to TSG_T0_Users_All
+2026-04-29 12:30:02 [INFO] Added user T0-Admin01 to TSG_T0_Users_All
+2026-04-29 12:30:02 [INFO] Added user T0-Admin02 to TSG_T0_Users_All
+2026-04-29 12:30:02 [INFO] Added user T1-Admin01 to TSG_T1_Users_All
+2026-04-29 12:30:02 [INFO] Added user T1-Admin02 to TSG_T1_Users_All
+2026-04-29 12:30:02 [INFO] Added user T2-Admin01 to TSG_T2_Users_All
+2026-04-29 12:30:02 [INFO] Added user T2-Admin02 to TSG_T2_Users_All
+2026-04-29 12:30:02 [INFO] Added user T2-User01 to TSG_T2_Users_All
+2026-04-29 12:30:02 [INFO] Added user T2-User02 to TSG_T2_Users_All
+2026-04-29 12:30:02 [INFO] Added user T2-User03 to TSG_T2_Users_All
+2026-04-29 12:30:02 [INFO] Added user T2-User04 to TSG_T2_Users_All
+2026-04-29 12:30:02 [INFO] Added user T2-User05 to TSG_T2_Users_All
+2026-04-29 13:11:40 [INFO] Retrieved 3 users and 3 group members for Tier 0
+2026-04-29 13:11:40 [INFO] Retrieved 2 users and 2 group members for Tier 1
+2026-04-29 13:11:40 [INFO] Retrieved 7 users and 7 group members for Tier 2
+2026-04-29 13:12:29 [INFO] Retrieved 5 users and 3 group members for Tier 0
+2026-04-29 13:12:29 [INFO] Added user T0-Admin04 to TSG_T0_Users_All
+2026-04-29 13:12:29 [INFO] Added user T0-Admin05 to TSG_T0_Users_All
+2026-04-29 13:12:29 [INFO] Retrieved 5 users and 2 group members for Tier 1
+2026-04-29 13:12:29 [INFO] Added user T1-Admin03 to TSG_T1_Users_All
+2026-04-29 13:12:29 [INFO] Added user T1-Admin04 to TSG_T1_Users_All
+2026-04-29 13:12:29 [INFO] Added user T1-Admin05 to TSG_T1_Users_All
+2026-04-29 13:12:30 [INFO] Retrieved 7 users and 7 group members for Tier 2
+2026-04-29 13:12:38 [INFO] Retrieved 5 users and 5 group members for Tier 0
+2026-04-29 13:12:38 [INFO] Retrieved 5 users and 5 group members for Tier 1
+2026-04-29 13:12:38 [INFO] Retrieved 7 users and 7 group members for Tier 2
+2026-04-29 13:15:02 [INFO] Added user T0-Admin06 to TSG_T0_Users_All
+2026-04-29 13:15:02 [INFO] Added user T0-Admin07 to TSG_T0_Users_All
+2026-04-29 13:15:02 [INFO] Added user T0-Admin08 to TSG_T0_Users_All
+2026-04-29 13:15:02 [INFO] Added user T0-Admin09 to TSG_T0_Users_All
+2026-04-29 13:15:02 [INFO] Added user T0-Admin010 to TSG_T0_Users_All
+2026-04-29 13:15:02 [INFO] Added user T1-Admin07 to TSG_T1_Users_All
+2026-04-29 13:15:02 [INFO] Added user T1-Admin08 to TSG_T1_Users_All
+2026-04-29 13:15:02 [INFO] Added user T1-Admin09 to TSG_T1_Users_All
+2026-04-29 13:15:02 [INFO] Added user T1-Admin010 to TSG_T1_Users_All
+2026-04-29 13:28:18 [INFO] Added user T0-Admin01 to TSG_T0_Users_All
+2026-04-29 13:28:18 [INFO] Added user T0-Admin02 to TSG_T0_Users_All
+2026-04-29 13:28:18 [INFO] Added user T0-Admin03 to TSG_T0_Users_All
+2026-04-29 13:28:18 [INFO] Added user T1-Admin01 to TSG_T1_Users_All
+2026-04-29 13:28:18 [INFO] Added user T2-Admin03 to TSG_T2_Users_All
+2026-04-29 13:28:18 [INFO] Added user T2-Admin04 to TSG_T2_Users_All
+2026-04-29 15:29:28 [INFO] Added user T0-Admin04 to TSG_T0_Users_All
+2026-04-29 15:29:28 [INFO] Added user T0-Admin05 to TSG_T0_Users_All
+2026-04-29 15:29:28 [INFO] Added user T0-Admin06 to TSG_T0_Users_All
+2026-04-29 15:29:28 [INFO] Added user T0-Admin07 to TSG_T0_Users_All
+2026-04-29 15:29:28 [INFO] Added user T0-Admin08 to TSG_T0_Users_All
+2026-04-29 15:29:28 [INFO] Added user T0-Admin09 to TSG_T0_Users_All
+2026-04-29 15:29:28 [INFO] Added user T0-Admin010 to TSG_T0_Users_All
+2026-04-29 15:29:28 [INFO] Added user T0-Admin01 to TSG_T0_Users_All
+2026-04-29 15:29:28 [INFO] Added user T0-Admin03 to TSG_T0_Users_All
+2026-04-29 15:29:28 [INFO] Added user T1-Admin03 to TSG_T1_Users_All
+2026-04-29 15:29:28 [INFO] Added user T1-Admin04 to TSG_T1_Users_All
+2026-04-29 15:29:28 [INFO] Added user T1-Admin05 to TSG_T1_Users_All
+2026-04-29 15:29:28 [INFO] Added user T1-Admin06 to TSG_T1_Users_All
+2026-04-29 15:29:28 [INFO] Added user T1-Admin07 to TSG_T1_Users_All
+2026-04-29 15:29:28 [INFO] Added user T1-Admin08 to TSG_T1_Users_All
+2026-04-29 15:29:28 [INFO] Added user T1-Admin09 to TSG_T1_Users_All
+2026-04-29 15:29:28 [INFO] Added user T1-Admin010 to TSG_T1_Users_All
+2026-04-29 15:29:28 [INFO] Added user T1-Admin01 to TSG_T1_Users_All
+2026-04-29 15:29:28 [INFO] Added user T1-Admin02 to TSG_T1_Users_All
+2026-04-29 15:29:28 [INFO] Added user T2-Admin01 to TSG_T2_Users_All
+2026-04-29 15:29:28 [INFO] Added user T2-Admin02 to TSG_T2_Users_All
+2026-04-29 15:29:28 [INFO] Added user T2-Admin03 to TSG_T2_Users_All
+2026-04-29 15:29:28 [INFO] Added user T2-Admin04 to TSG_T2_Users_All
+2026-04-29 15:29:28 [INFO] Added user T2-User01 to TSG_T2_Users_All
+2026-04-29 15:29:28 [INFO] Added user T2-User02 to TSG_T2_Users_All
+2026-04-29 15:29:28 [INFO] Added user T2-User03 to TSG_T2_Users_All
+2026-04-29 15:29:28 [INFO] Added user T2-User04 to TSG_T2_Users_All
+2026-04-29 15:29:28 [INFO] Added user T2-User05 to TSG_T2_Users_All
+2026-04-29 15:31:50 [INFO] Added user T0-Admin04 to TSG_T0_Users_All
+2026-04-29 15:31:50 [INFO] Added user T0-Admin05 to TSG_T0_Users_All
+2026-04-29 15:31:50 [INFO] Added user T0-Admin06 to TSG_T0_Users_All
+2026-04-29 15:31:50 [INFO] Added user T0-Admin07 to TSG_T0_Users_All
+2026-04-29 15:31:50 [INFO] Added user T0-Admin08 to TSG_T0_Users_All
+2026-04-29 15:31:50 [INFO] Added user T0-Admin09 to TSG_T0_Users_All
+2026-04-29 15:31:50 [INFO] Added user T0-Admin010 to TSG_T0_Users_All
+2026-04-29 15:31:50 [INFO] Added user T0-Admin01 to TSG_T0_Users_All
+2026-04-29 15:31:50 [INFO] Added user T0-Admin02 to TSG_T0_Users_All
+2026-04-29 15:31:50 [INFO] Added user T1-Admin03 to TSG_T1_Users_All
+2026-04-29 15:31:50 [INFO] Added user T1-Admin04 to TSG_T1_Users_All
+2026-04-29 15:31:50 [INFO] Added user T1-Admin05 to TSG_T1_Users_All
+2026-04-29 15:31:50 [INFO] Added user T1-Admin06 to TSG_T1_Users_All
+2026-04-29 15:31:50 [INFO] Added user T1-Admin07 to TSG_T1_Users_All
+2026-04-29 15:31:50 [INFO] Added user T1-Admin08 to TSG_T1_Users_All
+2026-04-29 15:31:50 [INFO] Added user T1-Admin09 to TSG_T1_Users_All
+2026-04-29 15:31:50 [INFO] Added user T1-Admin010 to TSG_T1_Users_All
+2026-04-29 15:31:50 [INFO] Added user T1-Admin01 to TSG_T1_Users_All
+2026-04-29 15:31:50 [INFO] Added user T1-Admin02 to TSG_T1_Users_All
+2026-04-29 15:31:50 [INFO] Added user T2-Admin01 to TSG_T2_Users_All
+2026-04-29 15:31:50 [INFO] Added user T2-Admin02 to TSG_T2_Users_All
+2026-04-29 15:31:50 [INFO] Added user T2-Admin03 to TSG_T2_Users_All
+2026-04-29 15:31:50 [INFO] Added user T2-Admin04 to TSG_T2_Users_All
+2026-04-29 15:31:50 [INFO] Added user T2-User01 to TSG_T2_Users_All
+2026-04-29 15:31:50 [INFO] Added user T2-User02 to TSG_T2_Users_All
+2026-04-29 15:31:50 [INFO] Added user T2-User03 to TSG_T2_Users_All
+2026-04-29 15:31:50 [INFO] Added user T2-User04 to TSG_T2_Users_All
+2026-04-29 15:31:50 [INFO] Added user T2-User05 to TSG_T2_Users_All

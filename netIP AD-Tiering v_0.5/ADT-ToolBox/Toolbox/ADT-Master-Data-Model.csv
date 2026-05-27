@@ -1,0 +1,25 @@
+COMPANY;LEVEL0;LEVEL1;LEVEL2;LEVEL3
+;.Tier0;Tier0 Accounts;Tier0 Services Accounts
+;.Tier0;Tier0 Accounts;Tier0 Admins
+;.Tier0;Tier0 Security Groups;Tier0 Admins
+;.Tier0;Tier0 Security Groups;Tier0 Admins;Tier0 All Admins
+;.Tier0;Tier0 Security Groups;Tier0 Service Accounts
+;.Tier0;Tier0 Servers;
+;.Tier0;Tier0 Servers;PAW
+;.Tier1;Tier1 Accounts;Tier1 Admins
+;.Tier1;Tier1 Accounts;Tier1 Services Accounts
+;.Tier1;Tier1 Security Groups;Tier1 Admins
+;.Tier1;Tier1 Security Groups;Tier1 Admins;Tier1 All Admins
+;.Tier1;Tier1 Security Groups;Tier1 Batch Users
+;.Tier1;Tier1 Security Groups;Tier1 Remote Desktop
+;.Tier1;Tier1 Security Groups;Tier1 Service Accounts
+;.Tier1;Tier1 Security Groups;Tier1 SQL Admins
+;.Tier1;Tier1 Servers;
+;.Tier1;Tier1 Servers;PAW
+;.Tier2;Tier2 Accounts;Tier2 Admins
+;.Tier2;Tier2 Accounts;Tier2 Service Accounts
+;.Tier2;Tier2 Accounts;Tier2 Users
+;.Tier2;Tier2 Clients;
+;.Tier2;Tier2 Security Groups;Tier2 Admins
+;.Tier2;Tier2 Security Groups;Tier2 Admins;Tier2 All Admins
+;.Tier2;Tier2 Security Groups;Tier2 Services Accounts
